@@ -8,9 +8,9 @@ Snake Game X is an advanced Snake game developed using **Python and Pygame**. It
 -  **Hardcore Mode** – Includes enemies and obstacles for challenging gameplay.
 -  **Multiplayer Mode** – Two-player Snake gameplay.
 -  **Power-Ups**
-  -  Slow Enemies
-  -  Shield Protection
-  -  Double Score
+    -  Slow Enemies
+    -  Shield Protection
+    -  Double Score
 -  Collision detection
 -  High-score tracking
 -  Pause and resume functionality
